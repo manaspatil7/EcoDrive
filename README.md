@@ -1,9 +1,5 @@
+EcoDrive
+EcoDrive is a comprehensive web application designed to address the complex challenges faced by urban residents worldwide in navigating city transportation systems, managing traffic congestion, and accessing real-time transportation information. By providing innovative solutions and leveraging technology, EcoDrive aims to simplify urban mobility and promote sustainable transportation practices.
+
 Link: https://8jt689-5173.csb.app/home
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
